@@ -4,4 +4,4 @@
 
 ## Projects Lists:
 ```
-1. Dice Rolling Game
+1. Dice Rolling Game (With custom dice quantity (1-10) and summary results)
