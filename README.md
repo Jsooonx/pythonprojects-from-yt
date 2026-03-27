@@ -11,3 +11,4 @@
     - Input your full link
     - Type the output file name (without extension (jpg, jpeg, png))
     - The output file (QR Code) will be inside a directory named qr-code-output, the file will be inside that folder.
+5. Calculator (Upgraded so it has an invalid output with every invalid input by the user and an option to continue or not)
